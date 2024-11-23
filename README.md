@@ -55,7 +55,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://fb.com/ajay chandravanshi" target="blank"><img align="center"
+<!--     <a href="https://fb.com/ajay chandravanshi" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="ajay chandravanshi" height="30" width="40" /></a>
     <a href="https://instagram.com/__ll.ajay.ll__" target="blank"><img align="center"
@@ -63,8 +63,19 @@
             alt="__ll.ajay.ll__" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/ajay chandravanshi vlogs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="ajay chandravanshi vlogs" height="30" width="40" /></a>
-
+            alt="ajay chandravanshi vlogs" height="30" width="40" /></a> -->
+  <a href="https://github.com/ajay-chandravanshi">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://youtube.com/@ajayvlogs06?si=td55tsYhzyNGaNKi">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/_ll.ajay.ll_/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=61564276943666">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
