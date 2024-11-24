@@ -49,7 +49,7 @@
 
 - 🌱 I’m Currently Learning **Python Fullstack Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,CPP**
+- 💬 Ask me about **HTML,CSS,Javascript,CPP, sass**
 
 - 📫 How to reach me **ajaystudy38@gmail.com**
 
