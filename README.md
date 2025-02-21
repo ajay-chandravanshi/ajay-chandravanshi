@@ -107,9 +107,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-chandravanshi&show_icons=true&locale=en&layout=compact"
         alt="ajay-chandravanshi" /></p>
         <br><br><br><br><br><br><br><br>
-<p><img 
+<!-- <p><img 
         src="https://github-readme-stats.vercel.app/api?username=ajay-chandravanshi&show_icons=true&locale=en"
-        alt="ajay-chandravanshi" /></p>
+        alt="ajay-chandravanshi" /></p> -->
+
+![Ajay Chandravanshi GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-chandravanshi&show_icons=true&theme=light)        
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-chandravanshi&"
         alt="ajay-chandravanshi" /></p>
